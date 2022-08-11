@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Evolutio
+- 🌱 I’m currently learning Azure and Jenkins
+- 👯 I’m looking to collaborate on project related with that technologies
 
 <!--
 **IBera/IBera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
