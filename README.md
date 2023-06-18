@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Evolutio
-- 🌱 I’m currently learning Azure and Jenkins
+- 🔭 I’m currently working on Axpo
+- 🌱 I’m currently learning Azure and Terraform
 - 👯 I’m looking to collaborate on project related with that technologies
 
 <!--
