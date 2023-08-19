@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Axpo
-- 🌱 I’m currently learning Azure and Terraform
+- 🌱 I’m currently learning Azure, Terraform and Kubernetes
 - 👯 I’m looking to collaborate on project related with that technologies
 
 <!--
